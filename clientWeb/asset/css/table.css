@@ -1,0 +1,12 @@
+.container-fluid{
+    font-size: 17px;
+    font-weight: bold;
+    background-color: #FEC238;
+}
+
+label{
+    font-size: 17px;
+    font-weight: bold;
+    border: 7px outset rgba(178,0,0,0.55);
+    border-radius: 0px 20px 0px 0px;
+}

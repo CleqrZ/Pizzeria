@@ -1,0 +1,15 @@
+.background{
+    -fx-background-color : darkred;
+}
+
+.button{
+    -fx-background-color : lightsalmon;
+}
+
+.button:hover{
+    -fx-background-color : indianred;
+}
+
+.button:pressed{
+    -fx-background-color : salmon;
+}
